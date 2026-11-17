@@ -2,7 +2,7 @@
 
 Meu nome é Pedro.
 
-🎓 Estudante de Ciência da Computação (7º período) - UniCEUB
+🎓 Estudante de Ciência da Computação (8º período) - UniCEUB
 
 💻 Tecnologias
 
@@ -21,7 +21,28 @@ Meu nome é Pedro.
 
 ## Projetos
 
-### Projeto Integrador da Faculdade
+## Projeto Integrador — UPPB Biofertilizante
+
+Participo de um projeto de Ciência da Computação do CEUB voltado ao
+desenvolvimento de uma solução digital integrada a um projeto de
+iniciação científica sobre produção de biofertilizante.
+
+A proposta integra um módulo IoT, um aplicativo para produtores e uma
+plataforma web para técnicos e pesquisadores, apoiando o registro da
+produção, o acompanhamento das unidades e a gestão de manutenção.
+
+### Minha participação
+
+- Elaboração e organização da documentação do projeto.
+- Levantamento e documentação dos requisitos do sistema.
+- Apoio à organização da equipe e ao acompanhamento das atividades.
+
+**Status:** em desenvolvimento. A versão publicada é um protótipo
+navegável, com dados fictícios e integrações simuladas.
+
+🔗 [Acesse o protótipo](https://uppb-biofertilizante.vercel.app/app)
+
+### Projeto Integrador - AcadFitCeub
 Desenvolvimento de um sistema de registro de treinos/rotina de exercícios e diário de dieta.
 
 🔗 https://github.com/Boniceub/AcadFitCeub
